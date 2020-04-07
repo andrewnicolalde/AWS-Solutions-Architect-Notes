@@ -1,8 +1,12 @@
-# Autoscaling Theory
+# EC2 Autoscaling Theory
+
+## Note
+
+The majority of the content in this lecture pertains specifically to **EC2** autoscaling. Various other AWS services such as DynamoDB, RDS and others have different forms of autoscaling not covered in this lecture.
 
 ## At a high level
 
-Autoscaling in AWS has 3 major organizational units.
+Autoscaling in EC2 has 3 major organizational units.
 
 * Groups - group of resources such as EC2 instances
 * Configuration Template - a launch configuration for EC2 instances (including AMI ID, instance type, key pair to be used, security groups and block device mapping.)
