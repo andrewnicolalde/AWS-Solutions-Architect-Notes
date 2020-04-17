@@ -8,4 +8,4 @@ The lovely people over at ACloud.guru!
 
 # Why?
 
-I'm finding that cloud-based architecture/design is an area sparesely if at all covered during most of my formal computer science education, so I intend to fill that gap! asdf 
+I'm finding that cloud-based architecture/design is an area sparesely if at all covered during most of my formal computer science education, so I intend to fill that gap!
